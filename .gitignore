@@ -1,0 +1,6 @@
+# Default ignored files
+app/kafka_producer.py
+app/kafka_spark.py
+
+# test files
+app/*.txt
